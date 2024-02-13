@@ -13,7 +13,7 @@ The first task was to enter the over 200 receipts into an excel spreadsheet with
 
 ![](Olutoal_car_energy_T1.png)
 
-With relevant information on spreadsheet, I transformed the data from 14 columns and over 200 columns into three significant Tables, Main as consumption, location and retailers with their primary and foreign keys. These Tables were entered into the Data Sources of Tableau.
+With relevant information on spreadsheet, I transformed the data from 14 columns and over 200 rows into three significant Tables, mainly consumption, location and retailers with their primary and foreign keys. These Tables were entered into the Data Sources of Tableau.
 
 ## Visualisations
 Two visualisations were generated:
