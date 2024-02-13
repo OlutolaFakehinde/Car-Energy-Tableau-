@@ -30,7 +30,7 @@ Again, there was another rise from 140 pence to a height of 158 pence between Ju
 
 ![](Olutoal_car_energy_T3.png)
 
-This shows various place Olutola was purchasing his fuel.
+This shows many places Olutola purchased his fuel within the period under consideration.
 It can be seen that most purchases were done at TESCO-D, which reflected the Supermarket Olutola used regularly because of his dwelling, followed by TESCO-M where Olutola worked.
 
 ## Conclusion
