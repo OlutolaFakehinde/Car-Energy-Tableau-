@@ -38,7 +38,7 @@ As stated earlier, the purpose of keeping fuel receipt is for expenses and budge
 However, this project is work in progress because there are many more that can be achieved in form of predictive, prescriptive, and cognitive analysis on this single project.
 
 #### Tableau link
-You can interact with the report .[here](https://public.tableau.com/app/profile/olutola.fakehinde/viz/OlutolaCarEnergyAnalysis_06022024/Dashboard1?publish=yes)
+You can interact with the Tableau dashboad [here](https://public.tableau.com/app/profile/olutola.fakehinde/viz/OlutolaCarEnergyAnalysis_06022024/Dashboard1?publish=yes)
 
 
 
