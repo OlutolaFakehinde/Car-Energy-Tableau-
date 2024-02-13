@@ -26,7 +26,7 @@ This visualisation shows the fluctuation of petrol rates from April 2021 to Janu
 The rate was low at 125.9 pence (£1.26), in April 2021 when the recording started, as the nation was coming out of the COVID-19 pandemic lockdown and rose above 170 pence (£1.70) to the highest at 190.9 pence (£1.91) and back 170 pence (£1.70) between June and September 2022 as the Russian-Ukraine war became very hot.
 Again, there was another rise from 140 pence to a height of 158 pence between July and October 2023 within which Israel-Hamas crisis began.
 
-### Retailers Purchases
+### Retailers & Purchases
 
 ![](Olutoal_car_energy_T3.png)
 
